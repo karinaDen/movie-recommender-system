@@ -1,0 +1,1 @@
+1) The Initial Data Exploration idea was taken [here](https://www.kaggle.com/code/yoghurtpatil/movielens-100k-data-analysis)
